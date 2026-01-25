@@ -22,3 +22,6 @@ npm start
 
 ## Author
 Anwesha Barad
+
+###Live Demo 
+https://neetflix-app-demo-project.netlify.app
