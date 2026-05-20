@@ -20,7 +20,7 @@ A Netflix UI clone built using React.js.
 npm install  
 npm start
 
-## Author
+## Author 
 Anwesha Barad
 
 ###Live Demo 
