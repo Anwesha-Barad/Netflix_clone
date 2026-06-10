@@ -8,6 +8,7 @@ A Netflix UI clone built using React.js.
 - Responsive UI
 - Login page
 
+
 ## Technologies Used
 - React.js
 - CSS
